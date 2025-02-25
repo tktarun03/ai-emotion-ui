@@ -1,0 +1,16 @@
+.emotion-box {
+  padding: 15px;
+  border-radius: 10px;
+  background: linear-gradient(45deg, #ffeb3b, #fbc02d);
+  color: black;
+  text-align: center;
+}
+button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
